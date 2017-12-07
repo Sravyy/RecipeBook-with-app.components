@@ -1,0 +1,14 @@
+body {
+  background-image:
+   linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+   url("https://www.ihdimages.com/wp-content/uploadsktz/2014/11/delicious_food_wallpaper_2014_hd.jpg");
+  background-size: cover;
+  text-align: left;
+  font-weight: bold;
+  color:white;
+  font-size: 17px;
+}
+
+input, select{
+  color:black;
+}
